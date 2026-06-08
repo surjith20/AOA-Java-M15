@@ -26,8 +26,8 @@ A valid assignment is always guaranteed because no garden has more than 3 neighb
 ```java
 /*
 Program to implement Flower Planting
-Developed by: ILAIYADEEPAN K
-Register Number: 212223230080
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 
 import java.util.*;
