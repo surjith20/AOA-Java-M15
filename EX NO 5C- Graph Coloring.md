@@ -26,8 +26,8 @@ To write a Java program to determine whether N radio towers can be assigned at m
 ```java
 /*
 Program to implement Graph Coloring
-Developed by: ILAIYADEEPAN K
-Register Number: 212223230080
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 
 import java.util.*;
